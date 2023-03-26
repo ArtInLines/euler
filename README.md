@@ -1,8 +1,12 @@
-# Euler
+# Moved
+
+This repository was moved to be a part of my [daily-tasks](https://github.com/ArtInLines/daily-tasks) repo.
+
+## Euler
 
 Solutions to the [Project Euler Problems](https://projecteuler.net/archives) in several different programming languages
 
-## Languages
+### Languages
 
 The following is a list of the languages used in this repo with the corresponding file extensions.
 
